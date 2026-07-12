@@ -3,12 +3,12 @@
     {
       "Id": "SiriusV2",
       "Name": "Sirius V2",
-      "SubNeeded": 1
+      "SubNeeded": 2
     },
     {
       "Id": "SiriusFree",
       "Name": "Sirius Free",
-      "SubNeeded": 0
+      "SubNeeded": 1
     }
   ]
 }
