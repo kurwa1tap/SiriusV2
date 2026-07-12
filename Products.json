@@ -1,14 +1,1 @@
-{
-  "Products": [
-    {
-      "Id": "SiriusV2",
-      "Name": "Sirius V2",
-      "SubNeeded": 2
-    },
-    {
-      "Id": "SiriusFree",
-      "Name": "Sirius Free",
-      "SubNeeded": 1
-    }
-  ]
-}
+CnsKICAiUHJvZHVjdHMiOiBbCiAgICB7CiAgICAgICJJZCI6ICJTaXJpdXNWMiIsCiAgICAgICJOYW1lIjogIlNpcml1cyBWMiIsCiAgICAgICJTdWJOZWVkZWQiOiAyCiAgICB9LAogICAgewogICAgICAiSWQiOiAiU2lyaXVzRnJlZSIsCiAgICAgICJOYW1lIjogIlNpcml1cyBGcmVlIiwKICAgICAgIlN1Yk5lZWRlZCI6IDEKICAgIH0KICBdCn0=
