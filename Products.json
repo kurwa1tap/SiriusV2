@@ -1,0 +1,14 @@
+{
+  "Products": [
+    {
+      "Id": "SiriusV2",
+      "Name": "Sirius V2",
+      "SubNeeded": 1
+    },
+    {
+      "Id": "SiriusFree",
+      "Name": "Sirius Free",
+      "SubNeeded": 0
+    }
+  ]
+}
